@@ -13,7 +13,7 @@ $this->title = 'Football';
 
         <p class="lead">Football players database</p>
 
-        <?php echo Html::img('@web/images/David-Luiz.jpg', ['height'=>500]); ?>
+        <?php echo Html::img('@web/images/David-Luiz.jpg', ['height'=>600]); ?>
     </div>
 
     <div class="body-content">
